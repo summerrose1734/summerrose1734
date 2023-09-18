@@ -1,4 +1,4 @@
-<h1>Hi, I'm Felecia!</h1>
+<h1>Hi, I'm Felecia Moore, Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -7,7 +7,7 @@
 
 
 <h2>Certifications</h2>
-Google Cybersecurity Professional  <br>
+Google Cybersecurity Professional Certificate  <br>
 
 Cybersecurity Plus Exam In Progress
 
