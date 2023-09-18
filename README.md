@@ -7,10 +7,9 @@
 
 
 <h2>Certifications</h2>
-Cybersecurity Security Plus (In Progress)
-Google Cybersecurity Professional Certificate
+Google Cybersecurity Professional  <br>
 
-
+Cybersecurity Plus Exam In Progress
 
 
 <h2> 🤳 Connect with me summerrose1734@gmail.com</h2>
